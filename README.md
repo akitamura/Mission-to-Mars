@@ -17,4 +17,5 @@ Recent news on Mars, Mars facts, and Mars hemisphere images were scraped using a
 
 ![Part 1/2](Output_Image_1.png)
 
+
 ![Part 2/2](Output_Image_2.png)

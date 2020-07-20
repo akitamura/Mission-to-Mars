@@ -14,4 +14,5 @@ Software: python, flask, html, beautifulsoup, splinter, mongodb
 Recent news on Mars, Mars facts, and Mars hemisphere images were scraped using a script created from python utilizing BeautifulSoup and Splinter. The data was stored on MongoDB and accessed in a Flask app and HTML template resulting in the following output:
 
 ![Part 1/2](Output Image 1.png)
+
 ![Part 2/2](Output Impage 2.png)

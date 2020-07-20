@@ -10,6 +10,7 @@ Data Source: https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&
              
 Software: python, flask, html, beautifulsoup, splinter, mongodb
 
+
 ### Output
 
 Recent news on Mars, Mars facts, and Mars hemisphere images were scraped using a script created from python utilizing BeautifulSoup and Splinter. The data was stored on MongoDB and accessed in a Flask app and HTML template resulting in the following output:
